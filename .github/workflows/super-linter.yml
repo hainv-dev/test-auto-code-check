@@ -1,4 +1,4 @@
-            - name: JetBrains ReSharper Inspect Code
+  - name: JetBrains ReSharper Inspect Code
   # You may pin to the exact commit or the version.
   # uses: JetBrains/ReSharper-InspectCode@80e9a643cf1c5a1f99cc1bd68501da164ae7d6a7
   uses: JetBrains/ReSharper-InspectCode@v0.8
